@@ -1,6 +1,18 @@
-# MSXMulti - MSX1 Emulator
-
 MSX1 emulator for Raspberry Pi Pico (RP2040) on PICO-56 or similar PCB.
+
+<img width="1247" height="785" alt="image" src="https://github.com/user-attachments/assets/e1f4b4ff-484d-4910-8d5b-a5ebdf028cb6" />
+
+<img width="1280" height="1252" alt="image" src="https://github.com/user-attachments/assets/ea603dc1-6a25-40a1-8512-837a834c33f3" />
+
+<img width="895" height="578" alt="image" src="https://github.com/user-attachments/assets/59225edc-74cd-4a40-a422-c8fff099d1c6" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/9511d4b5-7638-45ba-8eaa-990b354b2851" />
+
+<img width="1280" height="744" alt="image" src="https://github.com/user-attachments/assets/77960576-d311-44bd-9e5b-bc48af270255" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/de901b91-2624-4e00-a0de-ec521bca4e78" />
+
+
 
 ## Requirements
 
