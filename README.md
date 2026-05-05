@@ -14,7 +14,7 @@ MSX1 emulator for Raspberry Pi Pico (RP2040) on PICO-56 or similar PCB.
 
 ## Controls
 
-On screen keyboard overland - SELECT + RIGHT
+On screen keyboard overlay - SELECT + RIGHT
 Main Menu - SELECT + START
 Volume Up/Down - SELECT + UP/DOWN
 
