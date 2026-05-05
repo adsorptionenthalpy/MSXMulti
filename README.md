@@ -12,7 +12,11 @@ MSX1 emulator for Raspberry Pi Pico (RP2040) on PICO-56 or similar PCB.
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/de901b91-2624-4e00-a0de-ec521bca4e78" />
 
+## Controls
 
+On screen keyboard overland - SELECT + RIGHT
+Main Menu - SELECT + START
+Volume Up/Down - SELECT + UP/DOWN
 
 ## Requirements
 
